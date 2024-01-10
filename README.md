@@ -5,3 +5,8 @@
 
 Simple Pascal's Triangle program made with Unity.
 Functionality: input number of rows of the Pascal Triangle you wish to output, and switch between Function View (numbers) and Graphic View (# character)
+
+How to use:
+ 1. Download PascalTriangle.zip
+ 2. Unzip to desired location
+ 3. Run 'PascalTriangle.exe'
